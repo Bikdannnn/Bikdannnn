@@ -100,33 +100,6 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
 </div>
 
 <br/>
-
----
-
-### 🐍 Contribution Activity Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bikdannnn/Bikdannnn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bikdannnn/Bikdannnn/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Bikdannnn/Bikdannnn/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
----
-
-### 💬 Daily Dev Inspiration
-
-<div align="center">
-  <a href="https://github.com/Bikdannnn">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  </a>
-</div>
-
-<br/>
-
 <!-- FOOTER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" />
