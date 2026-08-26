@@ -103,41 +103,6 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
 
 ---
 
-### 📊 GitHub Analytics & Insights Overview
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Bikdannnn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikdannnn&theme=tokyonight" alt="Profile Details" width="370" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Bikdannnn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bikdannnn&theme=tokyonight" alt="GitHub Stats Summary" width="370" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Bikdannnn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bikdannnn&theme=tokyonight" alt="Languages Overview" width="370" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Bikdannnn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bikdannnn&theme=tokyonight" alt="Commit Languages" width="370" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
-
 ### 🐍 Contribution Activity Snake
 
 <div align="center">
