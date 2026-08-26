@@ -103,18 +103,6 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/Bikdannnn">
-    <img src="https://github-profile-trophy-alpha.vercel.app/?username=Bikdannnn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Bikdan's GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
----
-
 ### 📊 GitHub Analytics & Insights Overview
 
 <div align="center">
