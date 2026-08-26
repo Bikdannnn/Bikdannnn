@@ -106,8 +106,8 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bikdannnn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Bikdan's GitHub Trophies" />
+  <a href="https://github.com/Bikdannnn">
+    <img src="https://github-profile-trophy-alpha.vercel.app/?username=Bikdannnn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Bikdan's GitHub Trophies" />
   </a>
 </div>
 
@@ -122,7 +122,7 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
     <tr>
       <td>
         <a href="https://github.com/Bikdannnn">
-          <img src="https://github-readme-stats.vercel.app/api?username=Bikdannnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="175" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Bikdannnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="175" />
         </a>
       </td>
       <td>
@@ -139,12 +139,12 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
     <tr>
       <td>
         <a href="https://github.com/Bikdannnn">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikdannnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="165" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Bikdannnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="165" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Bikdannnn">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikdannnn&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" height="165" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikdannnn&theme=tokyonight" alt="Profile Summary Card" height="165" />
         </a>
       </td>
     </tr>
