@@ -115,36 +115,31 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
 
 ---
 
-### 📊 GitHub Analytics & Streak Overview
+### 📊 GitHub Analytics & Insights Overview
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/Bikdannnn">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Bikdannnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="175" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikdannnn&theme=tokyonight" alt="Profile Details" width="370" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Bikdannnn">
-          <img src="https://streak-stats.demolab.com/?user=Bikdannnn&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&title_color=7aa2f7" alt="Streak Stats" height="175" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bikdannnn&theme=tokyonight" alt="GitHub Stats Summary" width="370" />
         </a>
       </td>
     </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table border="0">
     <tr>
       <td>
         <a href="https://github.com/Bikdannnn">
-          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Bikdannnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="165" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bikdannnn&theme=tokyonight" alt="Languages Overview" width="370" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Bikdannnn">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikdannnn&theme=tokyonight" alt="Profile Summary Card" height="165" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bikdannnn&theme=tokyonight" alt="Commit Languages" width="370" />
         </a>
       </td>
     </tr>
