@@ -121,10 +121,14 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Bikdannnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="175" />
+        <a href="https://github.com/Bikdannnn">
+          <img src="https://github-readme-stats.vercel.app/api?username=Bikdannnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="175" />
+        </a>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikdannnn&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&title_color=7aa2f7" alt="Streak Stats" height="175" />
+        <a href="https://github.com/Bikdannnn">
+          <img src="https://streak-stats.demolab.com/?user=Bikdannnn&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&title_color=7aa2f7" alt="Streak Stats" height="175" />
+        </a>
       </td>
     </tr>
   </table>
@@ -134,7 +138,9 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikdannnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="165" />
+        <a href="https://github.com/Bikdannnn">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikdannnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="165" />
+        </a>
       </td>
       <td>
         <a href="https://github.com/Bikdannnn">
