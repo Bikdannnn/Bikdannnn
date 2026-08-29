@@ -69,7 +69,7 @@ philosophy: "Turning complex problems into clean, efficient, and scalable code."
   </a>
 </p>
 
-#### ⚙️ Backend & API Engineering
+#### ⚙️ Backend Engineering
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django,fastapi,graphql&perline=7" />
