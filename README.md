@@ -6,7 +6,7 @@
 <!-- DYNAMIC TYPING SVG & BADGES -->
 <div align="center">
   <a href="https://github.com/Bikdannnn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=50&lines=Fullstack+Web+Developer+%F0%9F%9A%80;Backend+%26+API+Engineer+%E2%9A%99%EF%B8%8F;Informatics+Student+%40+Univ.+Hasanuddin+%F0%9F%8E%93;Building+Scalable+%26+Robust+Applications+%F0%9F%92%BB;Open+Source+%26+Tech+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=50&lines=Fullstack+Web+Developer+%F0%9F%9A%80;Backend+Engineer+%E2%9A%99%EF%B8%8F;Informatics+Student+%40+Univ.+Hasanuddin+%F0%9F%8E%93;Building+Scalable+%26+Robust+Applications+%F0%9F%92%BB;Open+Source+%26+Tech+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
   </a>
   <br/>
 
