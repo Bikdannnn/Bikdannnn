@@ -32,10 +32,10 @@
 ### 🌟 About Me
 
 ```yaml
-name: M. Wildan Humaidi S. Budi (Bikdan)
+name: M. Wildan Humaidi S. Budi (Bikdannnn)
 location: Makassar, South Sulawesi, Indonesia 🇮🇩
 education: Informatics Engineering @ Universitas Hasanuddin 🎓
-role: Fullstack Web Developer & Backend Engineer 🚀
+role: Fullstack Web Developer
 interests: Scalable Architectures, REST & GraphQL APIs, Modern Web Tech
 philosophy: "Turning complex problems into clean, efficient, and scalable code."
 ```
