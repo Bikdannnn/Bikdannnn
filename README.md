@@ -37,7 +37,7 @@ location: Makassar, South Sulawesi, Indonesia 🇮🇩
 education: Informatics Engineering @ Universitas Hasanuddin 🎓
 role: Fullstack Web Developer
 interests: Scalable Architectures, REST & GraphQL APIs, Modern Web Tech
-philosophy: "Turning complex problems into clean, efficient, and scalable code."
+philosophy: "I have no enemies."
 ```
 
 - 🎓 **Education**: Undergraduate Informatics Engineering student at **Universitas Hasanuddin (Unhas)**, Makassar.
