@@ -45,7 +45,7 @@ philosophy: "I have no enemies."
 - 🔭 **Current Focus**: Architecting modular, reliable web systems, microservices, and database optimization.
 - 🌱 **Learning & Exploring**: Advanced Cloud Computing, System Design, DevOps Pipelines, and Distributed Systems.
 - 💬 **Ask me about**: JavaScript, TypeScript, React, Next.js, Node.js, Express, PHP, Laravel, Python, and SQL/NoSQL Databases.
-- ⚡ **Fun Fact**: Coffee + Clean Code + Good Music = Maximum Productivity ☕🎧
+- ⚡ **Fun Fact**: Coffee + Clean Code + Good Music = Maximum Productivity. ☕🎧
 
 <br/>
 
